@@ -1,0 +1,2 @@
+# vitext-Kvido
+czech translation
